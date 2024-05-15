@@ -106,21 +106,19 @@ else:
 
 ## Sample Input and Output
 i) #Use a linear search method to match the item in a list.
-```
 
-![alt text](image.png)
-```
+
+![alt text](<Screenshot 2024-05-15 182506.png>)
+
 ii) # Find the element in a list using Binary Search(Iterative Method).
-```
-![alt text](image-1.png)
 
-```
+![alt text](<Screenshot 2024-05-15 182827.png>)
+
 iii)# Find the element in a list using Binary Search (recursive Method).
 
 
-```
-![alt text](image-2.png)
-```
+![alt text](<Screenshot 2024-05-15 182939.png>)
+
 
 
 
